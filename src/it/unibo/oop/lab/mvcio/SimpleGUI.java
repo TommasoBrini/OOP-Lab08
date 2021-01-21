@@ -45,8 +45,7 @@ public final class SimpleGUI {
     /**
      * builds a new {@link SimpleGUI}.
      * 
-     * @param 
-     *       Controller
+     * @param controller
      */
     public SimpleGUI(final Controller controller) {
         final JPanel canvas = new JPanel();
